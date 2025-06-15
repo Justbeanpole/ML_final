@@ -1,4 +1,6 @@
 313/313 - 0s - 757us/step - accuracy: 0.9810 - loss: 0.0035
 Accuracy is 98.1000006198883
-![image](https://github.com/user-attachments/assets/53ab22be-ce66-40bc-b739-6ab57476319e)
-![image](https://github.com/user-attachments/assets/fd132d82-82c9-4191-a1a8-9f33192b1e07)
+
+
+![myplot](https://github.com/user-attachments/assets/577e78f1-47a2-4094-a9b1-fecd8de0d8c8)
+![myplot1](https://github.com/user-attachments/assets/8c7d01fa-9ece-492f-99ab-01af436932fb)
